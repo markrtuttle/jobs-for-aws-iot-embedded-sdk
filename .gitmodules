@@ -4,3 +4,6 @@
 [submodule "tools/cmock"]
 	path = test/unit-test/CMock
 	url = https://github.com/ThrowTheSwitch/CMock.git
+[submodule "test/cbmc/litani"]
+	path = test/cbmc/litani
+	url = https://github.com/awslabs/aws-build-accumulator
